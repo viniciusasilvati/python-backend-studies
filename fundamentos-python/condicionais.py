@@ -113,7 +113,6 @@ else:
     print('O número é ímpar.')
 '''
 
-
 renda = float(input('Digite o valor da sua renda mensal: R$ '))
 parcela = float(input('Digite o valor da parcela desejada: R$ '))
 
