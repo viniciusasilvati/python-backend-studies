@@ -5,13 +5,13 @@ Repositório criado para armazenar exercícios, desafios, anotações e pequenos
 ## Objetivo
 
 Praticar:
-- lógica de programação
+- Lógica de Programação
 - Python
-- orientação a objetos
+- Orientação a Objetos
 - APIs REST
-- bancos de dados
-- frameworks backend
-- versionamento com Git e GitHub
+- Bancos de Dados
+- Frameworks Back-End
+- Versionamento com Git e GitHub
 
 ## Conteúdos estudados
 
