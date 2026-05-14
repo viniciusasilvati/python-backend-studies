@@ -113,7 +113,7 @@ else:
     print('O número é ímpar.')
 '''
 
-'''
+
 renda = float(input('Digite o valor da sua renda mensal: R$ '))
 parcela = float(input('Digite o valor da parcela desejada: R$ '))
 
@@ -122,4 +122,3 @@ if renda > 2000 and parcela <= renda * 0.3:
 
 else:
     print('Empréstimo negado: Parcela acima de 30% da renda.')
-'''
