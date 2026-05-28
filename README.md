@@ -1,34 +1,34 @@
-# Estudos Python Backend
+# Python Backend Studies
 
-Repositório criado para armazenar exercícios, desafios, anotações e pequenos projetos desenvolvidos durante meus estudos no curso de Desenvolvimento Back-End Python da Alura.
+Repository created to store exercises, challenges, notes and small projects developed during my studies on Alura's Python Back-End Development course.
 
-## Objetivo
+## Objective
 
 Praticar:
-- Lógica de Programação
-- Python
-- Orientação a Objetos
-- APIs REST
-- Bancos de Dados
-- Frameworks Back-End
-- Versionamento com Git e GitHub
+- Programming Logic
+-Python
+- Object Orientation
+- REST APIs
+- Databases
+- Back-End Frameworks
+- Versioning with Git and GitHub
 
-## Conteúdos estudados
+## Contents studied
 
-- [x] Lógica de programação
-- [x] Fundamentos Python
-- [ ] Orientação a Objetos
-- [ ] APIs REST
+- [x] Programming logic
+- [x] Python Fundamentals
+- [ ] Object Orientation
+- [ ] REST APIs
 - [ ] Flask
 - [ ] Django
 - [ ] FastAPI
-- [ ] Banco de dados
+- [ ] Database
 - [ ] Docker
-- [ ] Microsserviços
-- [ ] Testes automatizados
+- [ ] Microservices
+- [ ] Automated tests
 
-## Estrutura do repositório
+## Repository structure
 
 ```text
-fundamentos-python/
+fundamentals-python/
 poo/
